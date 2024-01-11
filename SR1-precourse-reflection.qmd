@@ -10,15 +10,17 @@ editor_options:
 
 *Where are you coming from (e.g. “I recently finished my undergraduate degree”, “I’ve been working in industry X for Y years”) (1-2 sentences)*
 
-Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK). After taking a gap year 
+Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK). On my 4th year of my Bachelor's, I applied and received a Fulbright Scholarship which allowed me to pursue my Master's here at UCSB. 
 
 *What do you hope to get out of this class? (3-4 sentences)*
+As I am putting the figures for my MS Thesis together, I am 
+
+I would lo
 
 
 *If you have a particular career goal in mind, how does this course apply to your future career, if at all? (1-3 sentences)*
 
-After completing my Master's at UCSB, I envision myself
-
+After completing my Master's at UCSB, I envision myself working in the industry, whether that is the NGO sector, the consulting world, or the science communication field. I feel the need to explore life "outside" academia, as I haven't had a lot of time in
 
 *What do you wish your instructors knew about you, but don’t? (2-4 sentences)*
 
@@ -27,6 +29,7 @@ I am an international student from Spain, and adjusting to the American educatio
 #II. Some questions about the way you like to learn:
 
 *What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them? (4-5 sentences)*
+I have found data group projects overwhelming, and that has mostly been due to "git conflicts" & never having been taught the theory of forking 
 
 *How confident do you feel in your data visualization skills? Why? (3-4 sentences)*
 
