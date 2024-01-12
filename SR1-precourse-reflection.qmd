@@ -53,7 +53,7 @@ I am taking 2 other courses: a seminar compulsory for my program (MARSC595), and
 
 *What responsibilities do you have outside of school, and how do you want to balance them? (3-4 sentences)*
 
-I am lucky enough not to have a job commitment, as my funding is secured for the remaining of my program. I do mentor once/twice a month for a marine science outreach program for middle-school students (Sea the Future, through the Benioff Ocean Science Lab at UCSB). Being an international student does result in extra bureaucratic commitments, and I have had some issues with paperwork and visa extensions in the past, which have taken more time than expected. I am planning to solve all my visa issues within the next month so I can fully focus on my courses/research.  
+I am lucky enough not to have a job commitment, as my funding is secured for the remaining of my program. I do mentor once/twice a month for a marine science outreach program for middle-school students (Sea the Future, through the Benioff Ocean Science Lab at UCSB). Being an international student does lead to extra bureaucratic load, and I have had some issues with paperwork and visa extensions in the past, which have taken more time than expected. I am planning to solve all my visa issues within the next month so I can fully focus on my courses/research.  
 
 *Which learning goals from the syllabus are you most excited about? (3-4 sentences)*
 
@@ -61,6 +61,7 @@ I am excited to explore the theory behind visual communication (the human psycho
 
 *Most importantly, how do you plan on accomplishing your learning goals for this course? Note: be specific here! Instead of writing, “I will complete homework assignments” or “I will study”, you can make these more specific strategies: “I will create a schedule to map out assignments“ (elaborate on this), “I will use the homework assignments as opportunities to practice X,” I will communicate with classmates to ask for help after trying X,” “I will participate in online learning communities, such as TidyTuesday…” etc. (5-8 sentences)*
 
+I have just got myself a new life/work planner, which I am excited to use to keep my tasks organised. I plan to start assignments as soon as they are available, and dedicate at least one hour of work to them each day, since in the past I have sometimes left them until the last minute. I also really like the concept of the "learning partner", and I plan on reaching out to them more often when I find myself stuck. I will apply the homework assignments to my thesis, and use this as an opportunity to advance my figure making. It will feel great to be able to use the skills learnt in this course to lessen my research workload. Finally, I will practice writing more code from scratch (especially the basics of the ggplot arguments) to develop my muscle memory, instead of copy-pasting from previous figures. 
 
 #III. Some fun questions:
 
