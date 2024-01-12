@@ -24,32 +24,40 @@ After completing my Master's at UCSB, I envision myself working in the industry,
 
 1. I am an international student from Spain, and adjusting to the US university system & expectations has been quite the challenge (although I am getting the hang of it by now!).
 
-2. I am going through a rough patch after the end of a long-term relationship, and I expect it to impact my performance for a few months. I will try my best, since university will give me the purpose I need to move on. 
+2. I am going through a rough patch after the recent end of a long-term relationship, and I expect it to impact my performance for a few months. I will try my best, since university will give me the purpose I need to move on. 
+
 
 #II. Some questions about the way you like to learn:
 
 *What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them? (4-5 sentences)*
 
-The projects that have been most constructive
-I have found data group projects overwhelming, and that has mostly been due to "git conflicts" & never having been taught the theory on how to write code collaboratively.  
+The projects that I have found most enjoyable in the past have had a creative aspect to them such as storytelling/creating blog posts. I remember in particular having to "translate" a scientific paper to the language of the wider public. Having somewhat of a creative mind and a sensitive personality, I enjoy exploring different ways of communication. I  also modeling projects relevant to my field (Marine Sciences), notably a modeling exercise we had to do last quarter which entailed predicting aquaculture potential along the  California coastline. I believe modeling is an area I am actively working to improve, so I get excited when I get to practice it in class.  
 
 *How confident do you feel in your data visualization skills? Why? (3-4 sentences)*
-After taking the "Geospatial Analysis" course taught by Ruth Oliver this past Fall, my confidence in data visualization and map making has increased significantly!
+
+After taking the "Geospatial Analysis" course taught by Ruth Oliver this past Fall, my confidence in data visualization and map making has increased significantly! I am now confident with tmap as an alternative to ggplot for spatial data. When it comes to other data visualization techniques, I am confident in creating histograms, bar charts, anomaly plots, and faceting... but I could definitely brush up on my formatting and labeling skills (I never know how to deal with text/legends in figures).
+
 
 *How confident do you feel in your coding skills (primarily R, but feel free to elaborate on any of the languages you’ve used)? Why? (3-4 sentences)*
+
+I feel very confident in my data wrangling & exploration skills in R, but I recognise I can always improve my analysis skills (which is why I enrolled in ESM244). In terms of other languages, I have briefly been exposed to Google Earth Engine, Python and SQL although I would rate my confidence in these with a 30/100.
 
 
 *What have you struggled with in the past in other graduate-level courses? Why? (3-4 sentences)*
 
+I have struggled with keeping up with the pace of the course, since I consider myself a slow learner and I need time to digest material. A negative cycle I have fallen into sometimes is falling behind towards the midpoint of the quarter: once I fall behind I find it hard to reach out for help from peers or instructors. I have also found certain data group projects overwhelming, and that has mostly been due to "git conflicts" and never having been taught the theory of how to write code collaboratively. 
 
 *Of the courses you’re taking this quarter, which do you expect to be the most challenging? Most demanding? (1-2 sentences)*
-I am only taking one other course: "ESM244 - Advanced Data Analysis", which I believe will be slightly more challenging since it is a survey course on a variety of analytical methods, including an intro on machine learning, text analysis, spatial tools... Because it encompasses many more topics than this course (which is more specific), I believe I might find it more challenging to 
+
+I am taking 2 other courses: a seminar compulsory for my program (MARSC595), and Advanced Data Analysis (ESM244). I believe the latter will be the most challenging since it is a survey course on a variety of analytical methods, including an intro on machine learning, text analysis, spatial tools... Because it encompasses many more topics than this course (which is more specific), some of them which I have never been exposed to, I expect to dedicate more time learning about concepts completely new to me.
 
 *What responsibilities do you have outside of school, and how do you want to balance them? (3-4 sentences)*
+
 I am lucky enough not to have a job commitment, as my funding is secured for the remaining of my program. I do mentor once/twice a month for a marine science outreach program for middle-school students (Sea the Future, through the Benioff Ocean Science Lab at UCSB). Being an international student does result in extra bureaucratic commitments, and I have had some issues with paperwork and visa extensions in the past, which have taken more time than expected. I am planning to solve all my visa issues within the next month so I can fully focus on my courses/research.  
 
 *Which learning goals from the syllabus are you most excited about? (3-4 sentences)*
 
+I am excited to explore the theory behind visual communication (the human psychology behind), which I remember you mentioned in this first lecture, as well as learning how to make my figures more inclusive by adopting a diversity perspective. I admit being guilty to copy pasting chunks of my previous figures/code, especially with the basics of ggplot, so I am excited to master writing code from scratch until it becomes muscle memory. 
 
 *Most importantly, how do you plan on accomplishing your learning goals for this course? Note: be specific here! Instead of writing, “I will complete homework assignments” or “I will study”, you can make these more specific strategies: “I will create a schedule to map out assignments“ (elaborate on this), “I will use the homework assignments as opportunities to practice X,” I will communicate with classmates to ask for help after trying X,” “I will participate in online learning communities, such as TidyTuesday…” etc. (5-8 sentences)*
 
