@@ -1,6 +1,6 @@
 ---
 title: "Pre-Course Self Reflection 1"
-author: Sofia Urgoiti Crespo (she/her)
+author: "Sofia Urgoiti Crespo (she/her)"
 date: 2024-01-08
 editor_options: 
   chunk_output_type: console
@@ -10,30 +10,31 @@ editor_options:
 
 *Where are you coming from (e.g. “I recently finished my undergraduate degree”, “I’ve been working in industry X for Y years”) (1-2 sentences)*
 
-Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK). On my 4th year of my Bachelor's, I applied and received a Fulbright Scholarship from the Spanish government, which allowed me to pursue my Master's here at UCSB. 
+Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK), where I graduated in 2021. I then received a Fulbright Scholarship from the Spanish government, which allowed me to pursue my Master's here at UCSB starting in September 2022.
 
 *What do you hope to get out of this class? (3-4 sentences)*
 
-My 
-
+I am a part of Jenn Caselle's lab, and my research revolves around spatiotemporal variability of kelp biomass in the Channel Islands. As I am working on my Master's Thesis, I have realised I lack a systematic/organised way to create and store my figures. I am hoping to learn how to produce appealing and publication-worthy figures, with a consistent format. One particular goal I have in mind is to learn how to develop a function that standardizes my figures format at the top of my scripts. 
 
 *If you have a particular career goal in mind, how does this course apply to your future career, if at all? (1-3 sentences)*
 
-After completing my Master's at UCSB, I envision myself working in the industry, whether that is the NGO sector, the consulting world, or the science communication field. I feel the need to explore life "outside" academia, as I haven't had a lot of time in
+After completing my Master's at UCSB, I envision myself working in the industry, whether that is the NGO sector, the consulting world, or the science communication field. I feel the need to explore life "outside" academia, as I haven't had a lot of time in between my Bachelor's and my Master's.
 
 *What do you wish your instructors knew about you, but don’t? (2-4 sentences)*
 
-I am an international student from Spain, and adjusting to the American educational system & expectations has been quite the challenge. 
+1. I am an international student from Spain, and adjusting to the US university system & expectations has been quite the challenge (although I am getting the hang of it by now!).
 
-
+2. I am going through a rough patch after the end of a long-term relationship, and I expect it to impact my performance for a few months. I will try my best, since university will give me the purpose I need to move on. 
 
 #II. Some questions about the way you like to learn:
 
 *What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them? (4-5 sentences)*
-I have found data group projects overwhelming, and that has mostly been due to "git conflicts" & never having been taught the theory of forking 
+
+The projects that have been most constructive
+I have found data group projects overwhelming, and that has mostly been due to "git conflicts" & never having been taught the theory on how to write code collaboratively.  
 
 *How confident do you feel in your data visualization skills? Why? (3-4 sentences)*
-
+After taking the "Geospatial Analysis" course taught by Ruth Oliver this past Fall, my confidence in data visualization and map making has increased significantly!
 
 *How confident do you feel in your coding skills (primarily R, but feel free to elaborate on any of the languages you’ve used)? Why? (3-4 sentences)*
 
@@ -42,10 +43,10 @@ I have found data group projects overwhelming, and that has mostly been due to "
 
 
 *Of the courses you’re taking this quarter, which do you expect to be the most challenging? Most demanding? (1-2 sentences)*
-
+I am only taking one other course: "ESM244 - Advanced Data Analysis", which I believe will be slightly more challenging since it is a survey course on a variety of analytical methods, including an intro on machine learning, text analysis, spatial tools... Because it encompasses many more topics than this course (which is more specific), I believe I might find it more challenging to 
 
 *What responsibilities do you have outside of school, and how do you want to balance them? (3-4 sentences)*
-
+I am lucky enough not to have a job commitment, as my funding is secured for the remaining of my program. I do mentor once/twice a month for a marine science outreach program for middle-school students (Sea the Future, through the Benioff Ocean Science Lab at UCSB). Being an international student does result in extra bureaucratic commitments, and I have had some issues with paperwork and visa extensions in the past, which have taken more time than expected. I am planning to solve all my visa issues within the next month so I can fully focus on my courses/research.  
 
 *Which learning goals from the syllabus are you most excited about? (3-4 sentences)*
 
