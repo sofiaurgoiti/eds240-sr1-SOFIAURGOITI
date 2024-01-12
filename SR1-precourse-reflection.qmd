@@ -10,7 +10,7 @@ editor_options:
 
 *Where are you coming from (e.g. “I recently finished my undergraduate degree”, “I’ve been working in industry X for Y years”) (1-2 sentences)*
 
-Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK), where I graduated in 2021. I then received a Fulbright Scholarship from the Spanish government, which allowed me to pursue my Master's here at UCSB starting in September 2022.
+Prior to starting my Master's at UCSB, I completed my Bachelor's in Ecological & Environmental Sciences at The University of Edinburgh (Scotland, UK), where I graduated in 2021. I then received a Fulbright Scholarship from the Spanish government, which allowed me to pursue my Master's here at UCSB starting in September 2022, in the IGPMS department.
 
 *What do you hope to get out of this class? (3-4 sentences)*
 
@@ -31,7 +31,7 @@ After completing my Master's at UCSB, I envision myself working in the industry,
 
 *What kinds of assignments, skills, or behaviors have you felt most comfortable with / enjoy from past classes? Why do you enjoy them? (4-5 sentences)*
 
-The projects that I have found most enjoyable in the past have had a creative aspect to them such as storytelling/creating blog posts. I remember in particular having to "translate" a scientific paper to the language of the wider public. Having somewhat of a creative mind and a sensitive personality, I enjoy exploring different ways of communication. I  also modeling projects relevant to my field (Marine Sciences), notably a modeling exercise we had to do last quarter which entailed predicting aquaculture potential along the  California coastline. I believe modeling is an area I am actively working to improve, so I get excited when I get to practice it in class.  
+The projects that I have found most enjoyable in the past have had a creative aspect to them such as storytelling/creating blog posts. I remember in particular having to "translate" a scientific paper to the language of the wider public. Having somewhat of a creative mind and a sensitive personality, I enjoy exploring different ways of communication. I  also modeling projects relevant to my field (Marine Sciences), notably a modeling exercise we had to do last quarter which entailed predicting aquaculture potential along the  California coastline. Modeling is an area I am actively working to improve, so I get excited when I get to practice it in class.  
 
 *How confident do you feel in your data visualization skills? Why? (3-4 sentences)*
 
@@ -40,7 +40,7 @@ After taking the "Geospatial Analysis" course taught by Ruth Oliver this past Fa
 
 *How confident do you feel in your coding skills (primarily R, but feel free to elaborate on any of the languages you’ve used)? Why? (3-4 sentences)*
 
-I feel very confident in my data wrangling & exploration skills in R, but I recognise I can always improve my analysis skills (which is why I enrolled in ESM244). In terms of other languages, I have briefly been exposed to Google Earth Engine, Python and SQL although I would rate my confidence in these with a 30/100.
+I feel very confident in my data wrangling & exploration skills in R, but I recognise I can improve my analysis skills (which is why I enrolled in ESM244) and diversify my toolkit. In terms of other languages, I have briefly been exposed to Google Earth Engine, Python and SQL although I would rate my confidence in these with a 30/100.
 
 
 *What have you struggled with in the past in other graduate-level courses? Why? (3-4 sentences)*
@@ -67,12 +67,12 @@ I have just got myself a new life/work planner, which I am excited to use to kee
 
 *What activity(ies) (outside of school / work) brings you the most joy? How do you plan to incorporate that activity into your schedule this quarter (if at all)? If you are unable to do so, is there something else you can plan to do that will bring you similar joy? (3-5 sentences)*
 
-Spending time in nature has been my cure in times of stress. I am a keen hiker, surfer, yogi and skater. I try to do yoga once a week, hike on the weekends, and surf whenever the forecast allows. If I have little chunks of time to spend indoors, I try to play some music (ukelele), write some poetry, or attempt to crochet (it is taking me longer than expected to get a hang of it).
+Spending time in nature has been my cure in times of stress. I am a keen hiker, surfer, amateur yogi and skater. I try to go to the yoga studio at least once a week, hike on the weekends, and surf whenever the forecast allows. If I have little chunks of time to spend indoors, I try to play some music (ukelele), write some poetry, or attempt to crochet (it is taking me longer than expected to get a hang of it).
 
 
 *What is a piece of media you enjoyed recently? (e.g. music, book, movie, tweet, meme) (2-4 sentences)*
 
-I recently listened to a podcast episode called "The Artist's Way", where Billy Chapata discusses how to channel the artist within you, build confidence in your skills/art, and the role of social media in the current art scene. Even though art is a hobby and not a profession to me, I thought this episode was very inspiring, and it made me think of an alternative future where I could have been a poet and not a researcher... Although I do not regret my choice!
+I recently listened to a podcast episode called "The Artist's Way", where Billy Chapata discusses how to channel the artist within you, build confidence in your skills/art, and the role of social media in the current art world. Even though art is a hobby and not a profession to me, I thought this episode was very inspiring, and it made me think of an alternative future where I could have been a poet and not a researcher... Although I do not regret my choice!
 
 Here is the link to the podcast, in case you want to check it out for yourself: 
 
